@@ -1,0 +1,43 @@
+Assignment 1
+IT 496
+20 points
+Due: Wed 4/1/2015 at 11:59pm
+
+Input
+
+Your task is to find the perimeter, area, sine, cosine, and tangent of a triangle. The given sides are:
+•	14.8
+•	20.3
+•	25.3
+And given angles are:
+•	36
+•	53
+•	91
+
+Expected Outcome (example)
+
+side1= 14.8
+side2 = 20.3
+side3 = 25.3
+
+angle1 = 36
+angle2 = 53
+angle3 = 91
+
+Perimeter = [answer]
+
+Area = [answer]
+
+Sine = [answer]
+
+Cosine = [answer]
+
+Tangent = [answer]
+
+Grading
+
+You will be graded on:
+•	accuracy of calculations
+•	proper output
+•	proper code structure
+•	necessary comments
